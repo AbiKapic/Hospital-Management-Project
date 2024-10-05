@@ -12,3 +12,6 @@
 
 ## Usage
 - Simply clone the git and you can run it on pretty much any compiler
+
+## Initial look
+![1](https://github.com/user-attachments/assets/2bb601bf-4968-4038-bfaa-5e93b9d0c909)
