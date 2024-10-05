@@ -1,9 +1,9 @@
 # Hospital-Management-Project
 
 ## Description
-C++ program to manipulate patients,doctors and visitors from multiple hospitals
-Good structure code and program for realy big and useful desktop application 
-Only console supported at the moment
+- C++ program to manipulate patients,doctors and visitors from multiple hospitals
+- Good structure code and program for realy big and useful desktop application 
+- Only console supported at the moment
 
 ## Technologies used
 - Simple C++ console
